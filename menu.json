@@ -1,0 +1,93 @@
+{
+  "menu": {
+    "appetizers": [
+      {
+        "Name": "Mini Hotdogs",
+
+        "Description": "Mini hotdogs wrapped in bread.",
+
+        "ingredients": ["hotdog", "bread", "ketchup"]
+      },
+
+      {
+        "Name": "Ham And Cheese",
+
+        "Description": "Small cubes of ham and cheese",
+
+        "ingredients": ["ham", "cheese", "toothpicks"]
+      }
+    ],
+
+    "coldSandwiches": [
+      {
+        "Name": "Turkey Sandwich",
+
+        "Description": "Turkey sandwich on rye bread.",
+
+        "ingredients": ["turkey", "rye bread", "mayo", "mustard"]
+      },
+
+      {
+        "Name": "Ham Sandwich",
+
+        "Description": "Ham sandwich on rye bread.",
+
+        "ingredients": ["ham", "rye bread", "mayo", "mustard"]
+      }
+    ],
+
+    "hotSandwiches": [
+      {
+        "Name": "Hot Ham Sandwich",
+
+        "Description": "Ham sandwich on rye bread.",
+
+        "ingredients": ["ham", "rye bread", "mayo", "mustard"]
+      },
+
+      {
+        "Name": "Hot Turkey Sandwich",
+
+        "Description": "Turkey sandwich on rye bread.",
+
+        "ingredients": ["ham", "rye bread", "mayo", "mustard"]
+      }
+    ],
+
+    "desserts": [
+      {
+        "Name": "Ice cream",
+
+        "Description": "Frozen cows milk in a bowl.",
+
+        "ingredients": ["milk", "sugar", "bowl"]
+      },
+
+      {
+        "Name": "Chocolate Ice cream",
+
+        "Description": "Frozen cows milk in a bowl with chocolate powder.",
+
+        "ingredients": ["milk", "sugar", "chocolate", "bowl"]
+      }
+    ],
+
+    "drinks": [
+      {
+        "Name": "Water",
+
+        "Description": "Water",
+
+        "ingredients": ["Water", "cup"]
+      },
+
+      {
+        "Name": "Milk",
+
+        "Description": "Fresh Cows milk",
+
+        "ingredients": ["milk", "cup"]
+      }
+    ]
+  }
+}
